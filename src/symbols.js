@@ -691,6 +691,7 @@ defineSymbol(math, main, mathord, "\ue131", "\\@imath");
 defineSymbol(math, main, mathord, "\ue237", "\\@jmath");
 defineSymbol(math, main, textord, "\u0131", "\u0131");
 defineSymbol(math, main, textord, "\u0237", "\u0237");
+defineSymbol(text, main, textord, "\u20ac", "\\euro");
 defineSymbol(text, main, textord, "\u0131", "\\i", true);
 defineSymbol(text, main, textord, "\u0237", "\\j", true);
 defineSymbol(text, main, textord, "\u00df", "\\ss", true);
