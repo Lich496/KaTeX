@@ -465,6 +465,7 @@ defineSymbol(math, main, textord, "\u2018", "`");
 defineSymbol(math, main, textord, "$", "\\$");
 defineSymbol(text, main, textord, "$", "\\$");
 defineSymbol(text, main, textord, "$", "\\textdollar");
+defineSymbol(math, main, textord, "\u20ac", "\\euro");
 defineSymbol(math, main, textord, "%", "\\%");
 defineSymbol(text, main, textord, "%", "\\%");
 defineSymbol(math, main, textord, "_", "\\_");

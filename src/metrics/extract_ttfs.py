@@ -43,9 +43,14 @@ metrics_to_extract = {
         u"\u21a9": None,  # \hookleftarrow
         u"\u21aa": None,  # \hookrightarrow
         u"\u21cc": None,  # \rightleftharpoons
+        u"\u20ac": None,  # \euro
     },
     "Main-Bold": {
         u"\u2245": None,  # \cong
+        u"\u20ac": None,  # \euro
+    },
+    "Main-Italic": {
+        u"\u20ac": None,  # \euro
     },
     "Size1-Regular": {
         u"\u222c": u"\u222b",  # \iint, based on \int
